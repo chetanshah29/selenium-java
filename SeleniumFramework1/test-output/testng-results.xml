@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1511" started-at="2019-05-07T00:01:52Z" finished-at="2019-05-07T00:01:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1511" started-at="2019-05-07T00:01:52Z" finished-at="2019-05-07T00:01:53Z">
+      <class name="util.ExcelDataProvider">
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:util.ExcelDataProvider@5c3bd550]" name="test1" duration-ms="7" started-at="2019-05-07T00:01:53Z" data-provider="test1data" finished-at="2019-05-07T00:01:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chetan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[westmead]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:util.ExcelDataProvider@5c3bd550]" name="test1" duration-ms="2" started-at="2019-05-07T00:01:53Z" data-provider="test1data" finished-at="2019-05-07T00:01:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shah]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test321]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[harrispark]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- util.ExcelDataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
